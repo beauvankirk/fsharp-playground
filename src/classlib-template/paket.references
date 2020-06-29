@@ -1,0 +1,13 @@
+FSharp.Core
+nuget Aether
+Chessie
+ExtCore
+fleece
+FSharp.COMProvider
+FSharp.Data
+FSharp.Json
+FsPickler
+FsPickler.Json
+Logary
+FSharpPlus
+FSharpx.Extras

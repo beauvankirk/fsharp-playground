@@ -1,0 +1,29 @@
+source https://api.nuget.org/v3/index.json
+
+storage: none
+framework: netcoreapp3.1, netstandard2.1
+nuget Aether
+nuget Chessie
+nuget ExtCore
+nuget fleece
+nuget FSharp.COMProvider
+nuget FSharp.Core >= 4.7.2
+nuget FSharp.Data
+nuget FSharp.Data.GraphQL.Client
+nuget FSharp.Data.GraphQL.Server
+nuget FSharp.Data.GraphQL.Server.Middleware
+nuget FSharp.Json
+nuget FSharpx.Extras
+nuget FsPickler
+nuget FsPickler.Json
+nuget Logary
+nuget Microsoft.AspNetCore.App
+nuget Giraffe
+nuget Microsoft.NET.Test.Sdk
+nuget Microsoft.AspNetCore.TestHost
+nuget WebSharper 4.6.6.407
+nuget WebSharper.FSharp 4.6.6.407
+nuget WebSharper.AspNetCore 4.6.2.136
+nuget WebSharper.UI 4.6.3.219
+nuget xunit
+nuget xunit.runner.visualstudio
